@@ -1,0 +1,31 @@
+# Build-Output
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Lokale Datenbank (wird beim ersten Start automatisch angelegt)
+*.db
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse / NetBeans / VS Code
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+/nbproject/private/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Sicherung der Original-Abgabe (nicht hochladen)
+_abgabe_original/
+
+# Kompilierte Klassen
+*.class
