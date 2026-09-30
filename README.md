@@ -170,7 +170,3 @@ schlug wegen eines Tippfehlers im Spaltennamen fehl, der Hilfetext war unvollst�
 Suchergebnisse war schmaler als die übrigen Tabellen. In der `pom.xml` sind Surefire- und Exec-Plugin
 dazugekommen, damit `mvn test` und `mvn exec:java` auch ohne IDE funktionieren. Das Log-Level steht jetzt
 standardmäßig auf `warn`, damit die Terminal-Ausgabe übersichtlich bleibt.
-
-## Autor
-
-**Gregor Arlt** – Wirtschaftsingenieurwesen (B.Sc.), TU Berlin
